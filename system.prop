@@ -21,3 +21,5 @@ persist.radio.add_power_save=1
 
 # System property for SIM
 persist.radio.apm_sim_not_pwdn=0
+
+ro.telephony.mms_data_profile=5
