@@ -41,4 +41,4 @@
 
 /dev/socket/qmux_audio(/.*)?            u:object_r:qmuxd_socket:s0
 /dev/socket/qmux_gps(/.*)?              u:object_r:qmuxd_socket:s0
-/dev/socket/qmux_radio(/.*)? u:object_r:qmuxd_socket:s0
+/dev/socket/qmux_radio(/.*)?            u:object_r:qmuxd_socket:s0
